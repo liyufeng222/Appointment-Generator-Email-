@@ -1,0 +1,36 @@
+Where is the office for CS?
+R322
+What language is CS002 taught in?
+C++
+Is it better to learn Java or C++?
+It depends on your goals and educational plans. See a counselor for information about your specific education plan.
+What course you have to take before taking CS 3A?
+CS002
+Can I use my AP computer science to replace CS002?
+No, you can't. You have to take CS002 even though you have credit in APCS.
+Do I have to complete IGETC before transferring as a computer science major?
+No, you don't need to. But it's recommended.
+What is the time for CS 003B in Winter 2020?
+ M T Th F from 7:30 to 12:55
+Who is the professor for CS 003B in winter 2020?
+Professor Jamal Ashraf
+What language is taught in CS 3C?
+Python
+What is taught in CS 08?
+Data Structures
+How can I get help with my homework assignments?
+Tutoring or office hours
+What is the email of the Computer Science Division?
+macs@pasadena.edu
+What do you learn in CS 3A? 
+C++
+Where is Jamal Ashrafs Office? 
+R322 
+How many CS classes are required to transfer to UCLA as a CS major? 
+5
+What are the prerequisites for CS002?
+Prerequisite: Either Math 007B or Math008 or Math009
+What are the prerequisites for CS003A?
+Prerequisite: CS002
+Can you take CS003C with another CS class?
+May be taken concurrently with CS003A or CS003B
